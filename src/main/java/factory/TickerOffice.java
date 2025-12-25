@@ -11,7 +11,7 @@ public class TickerOffice {
     }
 
     static void getBusTicket() {
-        System.out.println("Taking Buss ticket : " + tm.getTicket("BUSS").getPrice());
+        System.out.println("Taking Buss ticket : " + tm.getTicket("BUS").getPrice());
     }
 
     static void getTrainTicket() {
