@@ -8,6 +8,7 @@ public class TickerOffice {
 
         getBusTicket();
         getTrainTicket();
+        getFlightTicker();
     }
 
     static void getBusTicket() {
@@ -16,5 +17,9 @@ public class TickerOffice {
 
     static void getTrainTicket() {
         System.out.println("Taking Trains ticket : " + tm.getTicket("TRAIN").getPrice());
+    }
+
+    static void getFlightTicker(){
+        System.out.println("Taking Flights ticket : " + tm.getTicket("FLIGHT").getPrice());
     }
 }
