@@ -1,2 +1,1 @@
-# patterns
-java patterns
+Defer creation of one product to subclasses
