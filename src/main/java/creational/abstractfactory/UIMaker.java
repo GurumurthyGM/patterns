@@ -1,4 +1,4 @@
-package abstractfactory;
+package creational.abstractfactory;
 
 import java.util.HashMap;
 import java.util.Map;

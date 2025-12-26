@@ -1,7 +1,5 @@
-package abstractfactory;
+package creational.abstractfactory;
 
-
-import java.awt.*;
 
 public class BlueUserInterface implements UserInterfaceFactory {
 

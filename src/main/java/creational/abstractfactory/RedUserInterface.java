@@ -1,4 +1,4 @@
-package abstractfactory;
+package creational.abstractfactory;
 
 public class RedUserInterface implements UserInterfaceFactory {
 

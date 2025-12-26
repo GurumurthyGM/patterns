@@ -1,4 +1,4 @@
-package abstractfactory;
+package creational.abstractfactory;
 
 public class BlueCheckBox implements CheckBox {
     @Override
