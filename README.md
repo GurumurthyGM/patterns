@@ -1,2 +1,2 @@
-# patterns
-java patterns
+# Bridge
+Pattern allows you to separate the abstraction from the implementation
